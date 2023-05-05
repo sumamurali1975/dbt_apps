@@ -1,1 +1,2 @@
 This is from dev folder test1.text
+This change is made from feature branch dev folder for file text1.txt
